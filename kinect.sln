@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinect", "kinect\kinect.csproj", "{A7797C64-B9CA-4F4F-934F-3B28D2E0CD78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7797C64-B9CA-4F4F-934F-3B28D2E0CD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7797C64-B9CA-4F4F-934F-3B28D2E0CD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7797C64-B9CA-4F4F-934F-3B28D2E0CD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7797C64-B9CA-4F4F-934F-3B28D2E0CD78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7C3E99-8AEE-4796-9AE1-64E98E3DCD49}
+	EndGlobalSection
+EndGlobal
