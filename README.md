@@ -1,6 +1,6 @@
-#Terrainmap using Microsoft Kinect
+# Terrainmap using Microsoft Kinect
 
-###Requirements:
+### Requirements:
 
 1. Kinect sensor (built and tested on Kinect for Windows v2, older versions might not work well)
 2. [.NET Framework >4.6.1](https://www.microsoft.com/net/download/Windows/run)
@@ -12,9 +12,9 @@ Latest release [here](https://github.com/ErikEnden/terrainmap-kinect/releases)
 
 ---
 
-#Maastikukaart Microsoft Kinecti abil
+# Maastikukaart Microsoft Kinecti abil
 
-###Nõudmised
+### Nõudmised
 
 1. Kinect sensor (Tarkvara ehitatud ja testitud Kinect for Windows v2 peal, vanemad Kinecti versioonid ei pruugi toimida)
 2. [.NET Framework >4.6.1](https://www.microsoft.com/net/download/Windows/run)
