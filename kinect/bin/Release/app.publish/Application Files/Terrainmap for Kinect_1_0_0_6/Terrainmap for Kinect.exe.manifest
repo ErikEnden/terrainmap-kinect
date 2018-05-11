@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Terrainmap for Kinect.exe" version="1.0.0.6" publicKeyToken="1ca1f9f75b5f37ad" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Terrainmap for Kinect" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Terrainmap for Kinect.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Kinect.dll" size="242672">
+      <assemblyIdentity name="Microsoft.Kinect" version="2.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eSn7u433nMxN11bxwiwsja9hDfCKcksHQADB+wro67k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Terrainmap for Kinect.exe" size="15328">
+      <assemblyIdentity name="Terrainmap for Kinect" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LyWA4tpT7SufAMd86thygl0fb6uxwfwCBjCPUR0hr2c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Terrainmap for Kinect.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-CMK5NGU\erike" issuerKeyHash="630734bea406aac8c1a31ab4fa0df4e2a8346ae3" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KPAC36xlYwWV0qeEP/dDy8H0PUFIL3nD1E0zDmXyBxU=</DigestValue></Reference></SignedInfo><SignatureValue>GGdYMHrkQteAc6usSvPFKa1X8Z8NMRmMYR/bUaYU72X3T2ynFAL7Hlf+G45TvQCyynZtrH2YekPjRw3jUBCd+l5I6CYfd4pPjtjOiZ0Vf37XrVV/lDMGN8DrAtgL5VPPa81AGDpf9gKmu0sJVVETsZwq0bOlZC3IRdK5WeAOSUo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1/0ANUvEaUAarug02/1b/5kya5riVHn4rL1RHT0Ftq1qmUDqpGtBqYwBn0NsrUI+83k2LiqFJHP2PQ0u4T+wCzDmKNuD24b7/SJ+QzDaAbKG5N3ze72lv0gMjinRsDwzz331TwJGuAsQ/iTTK5Hx6XxR7XAEzX4ac/V6ZcxDcCU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1507f2650e334dd4c3792f48413df4c1cb43f73f84a7d295056365acdf02f028" Description="" Url=""><as:assemblyIdentity name="Terrainmap for Kinect.exe" version="1.0.0.6" publicKeyToken="1ca1f9f75b5f37ad" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-CMK5NGU\erike</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MyUO8uu7TnCCGThjP4y/rONPhPDBB7cnJjPR68ccU9c=</DigestValue></Reference></SignedInfo><SignatureValue>l/R875yHywYTzLVAHkcKI2Zm0vWrfOVNU7aqJJyc/0gqz1d04DEp1JmQvUjp4Nk3rwhOtT/T/pJkFwp/0GjFuqygFhRvZtH/90tgSkbHFAWE+bMOrQLlOVLMY9iYk6o47+SwHpFozJZNFlJtA5qyZlcTDfdZKNzIFV5iL0bWpDs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1/0ANUvEaUAarug02/1b/5kya5riVHn4rL1RHT0Ftq1qmUDqpGtBqYwBn0NsrUI+83k2LiqFJHP2PQ0u4T+wCzDmKNuD24b7/SJ+QzDaAbKG5N3ze72lv0gMjinRsDwzz331TwJGuAsQ/iTTK5Hx6XxR7XAEzX4ac/V6ZcxDcCU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQRzqY4+lQ2KxBjxb2CdXWmjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEMATQBLADUATgBHAFUAXABlAHIAaQBrAGUwHhcNMTgwMzE2MDg0NDAwWhcNMTkwMzE2MTQ0NDAwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEMATQBLADUATgBHAFUAXABlAHIAaQBrAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANf9ADVLxGlAGq7oNNv9W/+ZMmua4lR5+Ky9UR09BbataplA6qRrQamMAZ9DbK1CPvN5Ni4qhSRz9j0NLuE/sAsw5ijbg9uG+/0ifkMw2gGyhuTd83u9pb9IDI4p0bA8M8999U8CRrgLEP4k0yuR8el8Ue1wBM1+GnP1emXMQ3AlAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAN/4jqeMVj2WANr59ym/4Cs4eXPv8NDFBdF8FIjXh55PzFu2RCQUsIuNfWsH8N32q5w4jdp/EjyRQNFRkP03XXFwAEQ2wSIWeHByqcrVFRGGZ3z9XNl+CMBupmaGJg0qW23b1Yf22qko0d5komuwRj5SPYmnNQfJmLiwTHltvjRQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

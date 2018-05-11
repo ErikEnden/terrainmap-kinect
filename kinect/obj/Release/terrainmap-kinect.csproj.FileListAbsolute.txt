@@ -1,0 +1,21 @@
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Terrainmap for Kinect.exe.config
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Terrainmap for Kinect.exe.manifest
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Terrainmap for Kinect.application
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Terrainmap for Kinect.exe
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Terrainmap for Kinect.pdb
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Microsoft.Kinect.dll
+C:\Users\erike\Documents\terrainmap-kinect\kinect\bin\Release\Microsoft.Kinect.xml
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\terrainmap-kinect.csprojAssemblyReference.cache
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\MainWindow.baml
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\MainWindow.g.cs
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\App.g.cs
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect_MarkupCompile.cache
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect.g.resources
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\kinect.Properties.Resources.resources
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\terrainmap-kinect.csproj.GenerateResource.cache
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\terrainmap-kinect.csproj.CoreCompileInputs.cache
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect.exe.manifest
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect.application
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\terrainmap-kinect.csproj.CopyComplete
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect.exe
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\Terrainmap for Kinect.pdb

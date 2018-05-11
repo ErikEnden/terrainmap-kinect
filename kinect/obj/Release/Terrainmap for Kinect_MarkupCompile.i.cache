@@ -1,18 +1,18 @@
-﻿kinect
+﻿Terrainmap for Kinect
 
 
 winexe
 C#
 .cs
-C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Debug\
+C:\Users\erike\Documents\terrainmap-kinect\kinect\obj\Release\
 kinect
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\erike\Documents\terrainmap-kinect\kinect\App.xaml
 11151548125
 
-9-21486514
+9868996001
 14-431635148
 MainWindow.xaml;
 
