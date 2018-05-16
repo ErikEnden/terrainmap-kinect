@@ -20,6 +20,6 @@ Latest release [here](https://github.com/ErikEnden/terrainmap-kinect/releases)
 2. [.NET Framework >4.6.1](https://www.microsoft.com/net/download/Windows/run)
 3. [Kinect Runtime](https://www.microsoft.com/en-us/download/details.aspx?id=44559)
 
-Kinect vajab töötamiseks USB 3.0
+Kinect vajab töötamiseks USB 3.0 porti.
 
 Uusim väljalase [siin](https://github.com/ErikEnden/terrainmap-kinect/releases)
