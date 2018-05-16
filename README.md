@@ -14,7 +14,7 @@ Latest release [here](https://github.com/ErikEnden/terrainmap-kinect/releases)
 
 # Maastikukaart Microsoft Kinecti abil
 
-### Nõudmised
+### Nõuded
 
 1. Kinect sensor (Tarkvara ehitatud ja testitud Kinect for Windows v2 peal, vanemad Kinecti versioonid ei pruugi toimida)
 2. [.NET Framework >4.6.1](https://www.microsoft.com/net/download/Windows/run)
